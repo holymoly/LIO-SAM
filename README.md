@@ -90,7 +90,7 @@ Use the following commands to download and compile the package.
 
   ```
   cd ~/ros2_ws/src
-  git clone https://github.com/TixiaoShan/LIO-SAM.git
+  git clone https://github.com/TixiaoShan/lio-sam.git
   cd lio-sam
   git checkout ros2
   cd ..
